@@ -1,14 +1,13 @@
 import { useState } from 'react'
 import './App.css'
+import Root from './components/Root'
 
 function App() {
 
 
   return (
     <div>
-      <h1>
-        Hello World
-      </h1>
+      <Root/>
     </div>
   )
 }
