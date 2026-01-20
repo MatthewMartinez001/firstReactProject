@@ -24,7 +24,7 @@ const Navbar = () => {
   return (
     <nav className="bg-blue-500 text-white py-2 md:py-5 sticky top-0 z-10">
       <div className="container mx-auto flex justify-between items-center p-4">
-        <h3> React Practice</h3>
+        <h3 className="text-xl font-bold"> React Pro01</h3>
 
         {/* Mobile menu button */}
         <div className="md:hidden">
